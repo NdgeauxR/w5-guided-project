@@ -1,0 +1,56 @@
+.content {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid yellow;
+}
+
+
+.hero {
+    background-color: rgba(255, 255, 0, 1);
+    padding: 50px;
+    text-align: center;
+    border: 4px solid blue;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header nav ul li {
+    margin: 0 15px;
+}
+
+main {
+    background-color: blue;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+    border: 4px solid yellow;
+}
+
+.contact {
+    text-align: center;
+    background-color: yellow;
+}
+
